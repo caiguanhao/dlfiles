@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "hZydNgSv18YQSkEcq+r76CnTDnc=",
+			"path": "github.com/caiguanhao/gotogether",
+			"revision": "bdfb76be44965bc06ec39c0ad71972c5c14ba3e3",
+			"revisionTime": "2016-06-25T14:25:26Z"
+		},
+		{
+			"checksumSHA1": "IGTIRzGuGprBaAAhuh0DCHmO7Rc=",
+			"path": "github.com/gosuri/uiprogress",
+			"revision": "a9f819bfc744fe70043abcc5a6cd0137a678e3d8",
+			"revisionTime": "2016-02-02T01:22:59Z"
+		}
+	],
+	"rootPath": "github.com/caiguanhao/dlfiles"
+}
